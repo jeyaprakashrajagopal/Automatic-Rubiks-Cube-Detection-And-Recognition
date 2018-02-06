@@ -7,3 +7,4 @@ Rubik' cube detection
 Surface rotation
 Color cell recognition
 
+Cons: The lighting conditions are defined.
